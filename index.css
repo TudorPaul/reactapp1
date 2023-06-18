@@ -1,4 +1,1 @@
-body{
-    margin: 0;
-    padding: 0;
-}
+body{margin: 0;padding: 0;font-family: 'Lato', sans-serif;}footer{background-color: bisque;position: absolute;bottom: 0;display: flex;justify-content: space-around;align-items: center;padding:1vh 0 1vh 0;width:100vw;}.img{width:2.5vw;height:auto;}.main-container{display: flex;flex-direction: column;justify-content: center;align-items: center;}.nav-items{list-style: none;display:flex;flex-direction: row;justify-content: space-around;}.nav{display: flex;justify-content: space-around;align-items: center;}.nav-items>li{padding:0.5vw;}
